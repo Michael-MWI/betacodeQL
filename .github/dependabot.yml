@@ -12,6 +12,7 @@ updates:
     directory: "/infra"
     ignore:
       - dependency-name: "*"
+      
  - package-ecosystem: "npm"
     directories:
     - "/packages"
